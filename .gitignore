@@ -1,2 +1,4 @@
 /.idea/
 /algstructs.iml
+*.class
+/out

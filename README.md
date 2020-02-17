@@ -4,9 +4,12 @@ Project for study algorithms and data structures
 # Algorithms:
 # Sorting
 # Searching 
+- Binary search
 
 # Data structures:
-# Graphs
-# Trees
-# Collections
-# Strings
+# Stack
+# Queue
+# Graph
+# Tree
+# Collection
+# String
