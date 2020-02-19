@@ -2,11 +2,17 @@
 Project for study algorithms and data structures
 
 # Algorithms:
+- Euclid's
+
 # Sorting
+
 # Searching 
+- Binary search
 
 # Data structures:
-# Graphs
-# Trees
-# Collections
-# Strings
+# Stack
+# Queue
+# Graph
+# Tree
+# Collection
+# String
